@@ -65,7 +65,7 @@ public class Main extends Script
                 }
                 else
                 {
-                    return State.POH;
+                    return State.CAMELOT;
                 }
             }
         }
