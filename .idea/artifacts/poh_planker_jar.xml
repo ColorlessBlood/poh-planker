@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="poh-planker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/poh_planker_jar</output-path>
+    <root id="archive" name="poh-planker.jar">
+      <element id="extracted-dir" path="C:/GSQ/Runescape/OSBot/osbot 2.4.144.jar" path-in-jar="/" />
+      <element id="module-output" name="poh-planker" />
+    </root>
+  </artifact>
+</component>
